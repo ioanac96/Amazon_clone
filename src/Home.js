@@ -12,37 +12,37 @@ function Home() {
             />
             <div className="home__row">
                 <Product 
-                    id="1234"
+                    id="1"
                     title="LALALALALA"
                     price={12.96}
                     rating={5}
                     image="https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202019/Health/06June/CR-Health-Inlinehero-a2-milk-0619"
                 />
                 <Product 
-                    id="1234"
-                    title="LALALALALA"
+                    id="2"
+                    title="Mac OS"
                     price={12.96}
                     rating={5}
-                    image="https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202019/Health/06June/CR-Health-Inlinehero-a2-milk-0619"
+                    image="https://hintariu.ro/wp-content/uploads/2020/04/catalina-hero.png"
                 />
             </div>
             <div className="home__row">
                 <Product 
-                        id="1234"
+                        id="3"
                         title="LALALALALA"
                         price={12.96}
                         rating={5}
                         image="https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202019/Health/06June/CR-Health-Inlinehero-a2-milk-0619"
                 />
                  <Product 
-                        id="1234"
+                        id="4"
                         title="LALALALALA"
                         price={12.96}
                         rating={5}
                         image="https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202019/Health/06June/CR-Health-Inlinehero-a2-milk-0619"
                 />
                  <Product 
-                        id="1234"
+                        id="5"
                         title="LALALALALA"
                         price={12.96}
                         rating={5}
@@ -51,7 +51,7 @@ function Home() {
             </div>
             <div className="home__row">
                 <Product 
-                            id="1234"
+                            id="6"
                             title="LALALALALA"
                             price={12.96}
                             rating={5}

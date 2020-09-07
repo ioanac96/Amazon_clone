@@ -7,6 +7,8 @@ import {
 } from "react-router-dom";
 import Header from "./Header.js";
 import Home from "./Home.js";
+import Checkout from "./Checkout.js";
+import Login from "./Login.js";
 
 function App() {
   return (
@@ -14,12 +16,11 @@ function App() {
       <div className="app">
         <Switch>
           <Route path="/login">
-            <h1>Login</h1>
-            <p>Lalal</p>
+            <Login />
           </Route>
           <Route path="/checkout">
             <Header />
-            <h1>Check out</h1>
+            <Checkout />
           </Route>
           <Route path="/">
             <Header/>
